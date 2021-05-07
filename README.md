@@ -1,2 +1,2 @@
 # SSQ-voter-confidence
-Replication materials for "Voting Experiences, Perceptions of Fraud, and Voter Confidence" (Social Sciences Quarterly, 2021)
+Replication materials for R. Michael Alvarez, Jian Cao, and Yimeng Li, "Voting Experiences, Perceptions of Fraud, and Voter Confidence" (Social Sciences Quarterly, 2021).  The published version of the paper is available at https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12940.  An ungated preprint is available at https://preprints.apsanet.org/engage/apsa/article-details/602e92c5c0e52e36bf7f08ea.  The data are restricted; researchers interested in obtaining the data for replication purposes should contact the authors.  
